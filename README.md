@@ -9,6 +9,7 @@ please run "pod install" before run the project
 - https://newsapi.org/
 
 ### Technologies
+- Swift
 - SwiftUI
 - Alamofire
 - SwiftLint
